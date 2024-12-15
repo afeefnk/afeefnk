@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohammedafeefnk
 - 👀 I’m interested in web Developer, Full stack developer
-- 🌱 I’m currently pursuing Full stack inetrn
-- 💞️ I’m open to work on React developer, full stack developer
+- 🌱 I’m currently working as web developer at Hoztox Technologies
 
 <!---
 afeefnk/afeefnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
